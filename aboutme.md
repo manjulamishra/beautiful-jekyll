@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 
-Hi, I'm Manjula Mishra, an aspiring data scientist focused on helping tech startups. 
+Hi, I'm Manjula Mishra, an aspiring data scientist focused on helping companies and tech startups in housing industry. 
 
 My interest lies in analyzing economic issues particularly housing market from socio-economic-environment and sustainability perspective. I also enjoy creating surveys to gather data firsthand. 
 
