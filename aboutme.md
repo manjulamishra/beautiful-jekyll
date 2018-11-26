@@ -3,29 +3,7 @@ layout: page
 title: About me
 subtitle: 
 ---
-Masters, Economics
-Undergrad, Economics honors 
-Some experince in DS but taking courses
-Parents have been teachers and thus 
-Interested in Climate Change, sustainable housing?
 
-Hi, I'm Manjula Mishra, a data scientist focused in digging deeper in housing market with special focus on sustainability. maker recommendations.  
-(make an initial hypothesis what type of industry you want to work in)
-Studying economics taught me how to have a different angle...I would love to work with you to solve housing issues with my 
+Hi, I'm Manjula Mishra, an aspiring data scientist focused on helping establisehd firms and tech startups. My interest lies in analyzing economic issues particularly housing market from socio-economic-environment sustainability perspective.
 
-###
-If there is someting I did and it deson't even connect to my main interst, use some jargon to connec the dots
-Ex: creating surveys, 
-IFPRI: used STATA, SPSS
-
-
-
-
-###Moved around:
-How it connects to my interest in housing
-
-###Development/Growth
-How this connect to my interest
-
-###I care about aesthetics
-###Sustainability 
+Studying economics taught me to be an analytical thinker. Training in econometrics and statistics provided me tools to convert analytical thinking into useful information. Finally, my data science journey is teaching me how to handle big data and make accurate predictions using statistical models in python. 
