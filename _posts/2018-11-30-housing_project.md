@@ -13,23 +13,26 @@ Objectives
 
 I want to analyze the housing trend in terms of eco-friendliness. 
 
-1. What geographic area caters to such houses?  
+1. Who are the top ten companies who build such homes?  
 2. How much people spend of eco-friendly concepts if they are remodeling their homes?
 3. Are there long term benefits?
-4. What are the upfront costs?
-5. Is education level, income, and geographic area affect their decisions?
+4. What are the upfront, and overall costs?
+5. Is education level, income, and geographic area affect their decisions? 
+6. How to measure the success in terms of satisfaction and monetary saving?
 
 How
 
 *   Find a dataset which has the required information
-*   Conduct a meaningful analysis using statisitcal techniques 
+*   Conduct a meaningful analysis throguh various statisitcal techniques 
 *   Show the work through tables and other visualizations
 *   Write a story that conveys the findings
 
 Challenges
 
-1. Finding the right dataset
-2. Knowing what statistical techniques to use
-3. The most effective visualizations
-4. Writing a good readable report
+1. How to define sustainable homes?
+2. Where and how to find the right dataset from?
+3. How to decide what statistical techniques to use?
+4. How to create the most effective visualizations?
+5. Writing a good readable story
+ 
  
