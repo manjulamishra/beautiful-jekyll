@@ -17,12 +17,12 @@ I want to analyze the housing trend in terms of eco-friendliness.
 2. How much people spend of eco-friendly concepts if they are remodeling their homes?
 3. Are there long term benefits?
 4. What are the upfront costs?
-5. Is education level, income, and geographic area affect their decisions? Concentration of such homes in specific areas?
+5. Is education level, income, and geographic area affect their decisions?
 
 How
 
 *   Find a dataset which has the required information
-*   Conduct a meaningful analysis throguh various statisitcal techniques 
+*   Conduct a meaningful analysis using statisitcal techniques 
 *   Show the work through tables and other visualizations
 *   Write a story that conveys the findings
 
@@ -31,5 +31,5 @@ Challenges
 1. Finding the right dataset
 2. Knowing what statistical techniques to use
 3. The most effective visualizations
-4. Writing a good readable story
+4. Writing a good readable report
  
