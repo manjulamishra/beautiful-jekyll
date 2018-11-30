@@ -6,7 +6,7 @@ image: https://github.com/manjulamishra/manjulamishra.github.io/blob/master/img/
 
 Project Proposal
 
-Housing industry is a very well researched space. Yet it fascinating to observe new topics of interest emerging with time. For last two decades, the focus has shifting towards bringing sustainability in housing industry. From remodeling old homes to new constructions, the effort is to make houses energy efficient and low maintenance. The modern architecture is simpler yet appealing.
+Housing industry is a very well researched space. Yet it is fascinating to observe new topics of interest emerging with time. For last two decades, the focus has shifting towards bringing sustainability in housing industry. From remodeling old homes to new constructions, the effort is to make houses energy efficient and low maintenance. The modern architecture is simpler yet appealing to younger generation. What factors affect our choices? How income, education, location, and environmental awareness play a role in the decision making? 
 
 
 Objectives
@@ -23,7 +23,8 @@ I want to analyze the housing trend in terms of eco-friendliness.
 How
 
 *   Find a dataset which has the required information
-*   Conduct a meaningful analysis throguh various statisitcal techniques 
+*   Inspect the dataset in Python and do the appropriate data cleaning
+*   Conduct a meaningful analysis throughh statisitcal techniques
 *   Show the work through tables and other visualizations
 *   Write a story that conveys the findings
 
