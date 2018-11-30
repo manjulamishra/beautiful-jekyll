@@ -11,7 +11,7 @@ Housing industry is a very well researched space. Yet it is fascinating to obser
 
 Objectives
 
-I want to analyze the housing trend in terms of eco-friendliness. 
+My objective is to analyze new trends in housing industry. The aim is to find if remodeling and new constructions are leaning towards eco-friendly homes and in turn, if this trend can be explained through socio-economic status of the population, education, or geographic location.  
 
 1. Who are the top ten companies who build such homes?  
 2. How much people spend of eco-friendly concepts if they are remodeling their homes?
