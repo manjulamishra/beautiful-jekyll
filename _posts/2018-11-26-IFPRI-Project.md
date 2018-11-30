@@ -4,12 +4,12 @@ subtitle: A socio-economic perspective in architecture
 image: https://github.com/manjulamishra/manjulamishra.github.io/blob/master/img/frank-zhang-675316-unsplash.jpg
 ---
 
-##Project Proposal
+Project Proposal
 
 Housing industry is a very well researched space. Yet it fascinating to observe new topics of interest emerging with time. For last two decades, the focus has shifting towards bringing sustainability in housing industry. From remodeling old homes to new constructions, the effort is to make houses energy efficient and low maintenance. The modern architecture is simpler yet appealing.
 
 
-###Objectives
+Objectives
 
 I want to analyze the housing trend in terms of eco-friendliness. 
 
@@ -19,14 +19,14 @@ I want to analyze the housing trend in terms of eco-friendliness.
 4. What are the upfront costs?
 5. Is education level, income, and geographic area affect their decisions? Concentration of such homes in specific areas?
 
-###How
+How
 
 *   Find a dataset which has the required information
 *   Conduct a meaningful analysis throguh various statisitcal techniques 
 *   Show the work through tables and other visualizations
 *   Write a story that conveys the findings
 
-###Challenges
+Challenges
 
 1. Finding the right dataset
 2. Knowing what statistical techniques to use
