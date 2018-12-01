@@ -17,7 +17,7 @@ My objective is to analyze new trends in housing industry. The aim is to find if
 2. How much people spend of eco-friendly concepts if they are remodeling their homes?
 3. Are there long term benefits?
 4. What are the upfront, and overall costs?
-5. Is education level, income, and geographic area affect their decisions? 
+5. Do education level, income, and geographic area affect their decisions? 
 6. How to measure the success in terms of satisfaction and monetary saving?
 
 How
