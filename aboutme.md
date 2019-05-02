@@ -1,11 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: 
 ---
 
-Hi, I'm Manjula Mishra, an aspiring data scientist focused on helping companies and tech startups in housing industry. 
+Hi, I'm Manjula Mishra, a data scientist/economist. I studied economics for the longest time I can remember. I enjoy doing statistics and econometrics always fascinates me. However, what excites me most is the data science training combined with my knowledge of economics. Doing data science using Python has been powerful. This rich computer language has provided me powerful tools to analyze data in a way that I didn't know was possible. I enjoy learning about incredibly well maintained and useful Python libraries and packages for data wrangling, analysis and visualization purposes. One of my goals is to start making small contributions to this massive language (besides learning R). 
 
-My interest lies in analyzing economic issues particularly housing market from socio-economic-environment and sustainability perspective. I also enjoy creating surveys to gather data firsthand. 
-
-Studying economics taught me to be an analytical thinker. Training in econometrics and statistics provided me tools to convert analytical thinking into useful information. Finally, my data science journey is teaching me how to handle big data and make accurate predictions using statistical models in python. My previous projects invloved cleaning, processing, and analyzing raw data with STATA and SPSS. 
+Some of the skills I learned through my data science training incldue: pandas, numpy, scipy, SKLearn, Matplotlib, Seaborn, plotly, Regression Analysis, Classification Models, Clustering, PCA, Tree Ensembles: Random Forest, Decision Tree, XGBoost, NLP, Artificial Neural Networks, Keras, AWS:SageMaker, SQL, PostgresSQL, and GitHub workflow.
