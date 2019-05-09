@@ -4,9 +4,7 @@ title: Useful Codes
 ---
 
 ## How to create a list of select files from a folder?
-There a folder that contains files starting with certain characters. Our task is to make a list of those file. What do we need:
-1. Directory path
-2. import os
+There a folder that contains files starting with certain characters. Our task is to make a list of those file. What do we need: 1. Directory path, 2. import os
 
 #### Method 1
 using Python built-in 'startswith'
