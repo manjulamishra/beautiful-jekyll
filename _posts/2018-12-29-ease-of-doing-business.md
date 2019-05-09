@@ -8,7 +8,7 @@ gh-badge: [star, fork, follow]
 tags: [Ease of Doing Business]
 ---
 
-The World Bank coduct surveys under Doing Business to measure the level of complexities invloved in doing business in 190 countries around the world. The survey involves various categories to measure each country's ranking. The rankings are taken seriously by many governments specially the ones who rely heavily on foreign investments. Following are the categories on which the countries' readiness or openness or ease of doing business is measured:
+The World Bank coducts surveys for its [Doing Business](http://www.doingbusiness.org/en/doingbusiness) intiative to measure the level of complexities invloved in doing business in 190 countries around the world. The survey involves various categories to measure each country's ranking. The rankings are taken seriously by many governments specially the ones who rely heavily on foreign investments. Following are the categories on which the countries' readiness or openness or ease of doing business is measured:
 
 * Starting a Business
 * Dealing with Construction Permits
@@ -25,7 +25,11 @@ All the above indicators deal with how many procedures each step includes, how m
 
 This topic always interests me. While researching for data around this topic, I noticed there weren't any good visualizations available. Visualizations are more appealing to human eyes that raw data. I wanted to create one which could filter out information and show a graph where each county stand in their ranking. I used [Plotly dashboad](https://plot.ly/dashboard/manjulamishra:41/view#/) to summarize the data.
 
+#### Score Chart for the 190 Countries Surveyed
 ![](/img/big_plot_doing_business.png)
+
+#### Developed Countries Usually Rank Better
+![](/img/doing_business.png)
 
 
 #### Data Source:
