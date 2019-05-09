@@ -4,12 +4,11 @@ title: Useful Codes
 ---
 
 ## How to list files from a folder
-There a folder that contains files starting with certain characters. Our task is to make a list of those file.
-### What do we need:
+There a folder that contains files starting with certain characters. Our task is to make a list of those file. What do we need:
 1. Directory path
 2. import os
 
-### Method 1
+#### Method 1
 We use Python built-in 'startswith'
 
 
@@ -43,7 +42,7 @@ collect_files(file_list)
 
 
 
-### Method 2
+#### Method 2
 
 Not using built-in function but indexing method
 
@@ -78,8 +77,8 @@ collect_files(file_list)
 
 
 
-### Method 3
-Making it more usable (generic) for any string match: user gives two arguments 
+#### Method 3
+Making it more generic to match any string:two input arguments
 
 
 ```python
