@@ -79,7 +79,7 @@ collect_files(file_list)
 
 
 ### Method 3
-Making it more usable (generic) for any string match
+Making it more usable (generic) for any string match: user gives two arguments 
 
 
 ```python
@@ -87,7 +87,7 @@ def collect_files(file_list, str_to_match):
     build_file_list = []
     x = len(str_to_match)
     for filename in file_list:
-        if filename[0:x] == str_to_match: # We want all "noaa_" files
+        if filename[0:x] == str_to_match: 
                     build_file_list.append(filename)
     return build_file_list
 ```
