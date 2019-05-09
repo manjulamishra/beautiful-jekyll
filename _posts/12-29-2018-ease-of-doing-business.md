@@ -23,7 +23,7 @@ The World Bank coduct surveys under Doing Business to measure the level of compl
 
 All the above indicators deal with how many procedures each step includes, how many days it takes, minimum cost (upfront investment), and other related things specific to each indicator. 
 
-This topic always interests me. While researching for data around this topic, I noticed there weren't any good visualizations available. Visualizations are more appealing to human eyes that raw data. I wanted to create one which could filter out information and show a graph where each county stand in their ranking. I used [Plotly dashboa](https://plot.ly/dashboard/manjulamishra:41/view#/) to summarize the data.
+This topic always interests me. While researching for data around this topic, I noticed there weren't any good visualizations available. Visualizations are more appealing to human eyes that raw data. I wanted to create one which could filter out information and show a graph where each county stand in their ranking. I used [Plotly dashboad](https://plot.ly/dashboard/manjulamishra:41/view#/) to summarize the data.
 
 ![](/img/big_plot_doing_business.png)
 
