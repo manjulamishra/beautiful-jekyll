@@ -9,7 +9,7 @@ There a folder that contains files starting with certain characters. Our task is
 2. import os
 
 #### Method 1
-We use Python built-in 'startswith'
+using Python built-in 'startswith'
 
 
 ```python
@@ -44,7 +44,7 @@ collect_files(file_list)
 
 #### Method 2
 
-Not using built-in function but indexing method
+Using indexing method:
 
 
 ```python
