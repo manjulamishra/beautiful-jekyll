@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blog
-image: /img/10306751_4213691478773_105818567981232319_n.jpg
 ---
 ## [Predicting Functional Water Pumps in Tanzania using Random Forests and Logistic Regression in Python](https://itnext.io/predicting-functional-water-pumps-in-tanzania-using-random-forests-and-logistic-regression-in-ffa04b0617f2)
 #### Feb 08,2019
