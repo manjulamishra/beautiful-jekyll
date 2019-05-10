@@ -25,9 +25,7 @@ All the above indicators deal with how many procedures each step includes, how m
 
 This topic always interests me. While researching for data around this topic, I noticed there weren't any good visualizations available. Visualizations are more appealing to human eyes that raw data. I wanted to create one which could filter out information and show a graph where each county stand in their ranking. I used [Plotly dashboad](https://plot.ly/dashboard/manjulamishra:41/view#/) to summarize the data.
 
-https://plot.ly/dashboard/manjulamishra:41/view#/
-
-#### Score Chart for the 190 Countries Surveyed
+#### [Score Chart for the 190 Countries Surveyed](https://plot.ly/dashboard/manjulamishra:41/view#/)
 * Developed coutries fare better on their ease of business scores
 * Higher scores are represented by lighter colors
 ![](/img/doing_business.png)
