@@ -25,16 +25,20 @@ All the above indicators deal with how many procedures each step includes, how m
 
 This topic always interests me. While researching for data around this topic, I noticed there weren't any good visualizations available. Visualizations are more appealing to human eyes that raw data. I wanted to create one which could filter out information and show a graph where each county stand in their ranking. I used [Plotly dashboad](https://plot.ly/dashboard/manjulamishra:41/view#/) to summarize the data.
 
-#### Score Chart for the 190 Countries Surveyed
-![](/img/big_plot_doing_business.png)
+https://plot.ly/dashboard/manjulamishra:41/view#/
 
-#### Developed Countries Usually Rank Better
+#### Score Chart for the 190 Countries Surveyed
+* Developed coutries fare better on their ease of business scores
+* Higher scores are represented by lighter colors
 ![](/img/doing_business.png)
+
+#### [Developed Countries Usually Rank Better](https://plot.ly/dashboard/manjulamishra:41/view#/)
+![](/img/big_plot_doing_business.png)
 
 
 #### Data Source:
-[The World bank](http://www.doingbusiness.org/en/rankings)
-[Readings](http://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB19-Chapters/DB19-Score-and-DBRankings.pdf)
+* [The World bank](http://www.doingbusiness.org/en/rankings)
+* [Readings](http://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB19-Chapters/DB19-Score-and-DBRankings.pdf)
 
 #### Visualizations
 [Plot.ly](https://plot.ly)
