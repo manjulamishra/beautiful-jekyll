@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Useful Codes
+title: Useful Code
 ---
 
 ## How to create a list of select files from a folder?
