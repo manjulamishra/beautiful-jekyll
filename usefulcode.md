@@ -4,10 +4,10 @@ title: Useful Code
 ---
 The Python programming code snippets on this page are useful working pieces of code with examples. I hope add more code tidbits as a great reference. 
 
-### How to create a list of select files from a folder?
+### 1. How to create a list of select files from a folder?
 There a folder that contains files starting with certain characters. Our task is to make a list of those file. What do we need: 1. Directory path, 2. import os
 
-#### Method 1
+##### Method 1
 using Python built-in 'startswith'
 
 
@@ -41,7 +41,7 @@ collect_files(file_list)
 
 
 
-#### Method 2
+##### Method 2
 
 Using indexing method:
 
@@ -76,7 +76,7 @@ collect_files(file_list)
 
 
 
-#### Method 3
+##### Method 3
 Making it more generic to match any string:two input arguments
 
 
@@ -107,7 +107,7 @@ collect_files(file_list, str_to_match)
      'Untitled.xlsx',
      'Untitled.ipynb']
 
-### Returning middle 3 chars of any odd string
+### 2.How to return middle 3 chars of any odd string?
 Given a string of odd length of 5 or greater, return a string made of the middle three chars of a given String.
 
 ```python
@@ -120,8 +120,10 @@ def three_middle_chars(any_str):
         middle_str = int(len(any_str)/2)
         return any_str[middle_str-1:middle_str+2]
 ```
+Testing the code:
+
 ```python
-str_test = "howareyoudoing?"
+str_test = "howareyoudoing?" # Example string
 ```
 
 
