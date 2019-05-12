@@ -112,7 +112,7 @@ Given a string of odd length of 5 or greater, return a string made of the middle
 
 ```python
 def three_middle_chars(any_str):
-    if int(len(any_str)%2) ==0:
+    if int(len(any_str)%2) ==0: 
         print("Error:even length")
     elif len(any_str) < 5:
         print("Error: string length less than 5")
