@@ -107,7 +107,7 @@ collect_files(file_list, str_to_match)
      'Untitled.xlsx',
      'Untitled.ipynb']
 
-### 2.How to return middle 3 chars of any odd string?
+### 2.How to return middle 3 chars of any odd length string?
 Given a string of odd length of 5 or greater, return a string made of the middle three chars of a given String.
 
 ```python
