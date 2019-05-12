@@ -2,7 +2,7 @@
 layout: page
 title: Useful Code
 ---
-The Python programming code snippets on this page are useful working pieces of code with examples. I hope add more code tidbits as a great reference. 
+Python programming snippets on this page are useful working code with examples. I hope to add more code tidbits as a reference for data analysis in terms of data cleaning, manipuation etc. 
 
 ### 1. How to create a list of select files from a folder?
 There a folder that contains files starting with certain characters. Our task is to make a list of those file. What do we need: 1. Directory path, 2. import os
