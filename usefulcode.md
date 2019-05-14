@@ -148,5 +148,39 @@ three_middle_chars(str_test)
 
     'you'
 
+### 3. Given 2 strings, s1 and s2, how to create a new string by appending s2 in the middle of s1?
 
+```python
+def new_string(str1, str2):
+    new_str = ""
+    str1_half = int(len(str1)/2)
+    new_str = str1[0:str1_half] + str2 +str1[str1_half:]
+    return new_str
+```
+
+```python
+str1 = 'thisiscool'
+str2 = "VERY"
+```
+
+```python
+new_string(str1, str2)
+```
+
+
+
+
+    'thisiVERYscool'
+
+
+
+
+```python
+
+```
+
+
+```python
+
+```
 
