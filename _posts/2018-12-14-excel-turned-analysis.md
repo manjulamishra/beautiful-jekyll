@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Handling Excel Data in Python pandas
+image: /img/excel_cleaning_picture.png
 ---
 
 ## [Home Remodeling Analysis Turned Excel Data Handling in Python](https://towardsdatascience.com/home-remodeling-analysis-turned-excel-data-handling-in-python-e1115f8302e4)
