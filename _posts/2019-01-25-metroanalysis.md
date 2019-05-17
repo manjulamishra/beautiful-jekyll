@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Global Rankings for Ease of Doing Business 
+title: Metropolitan Home Improvment Analysis  
 image: /img/metro_post_plot.png
 ---
 
