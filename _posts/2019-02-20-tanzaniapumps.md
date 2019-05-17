@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Global Rankings for Ease of Doing Business 
+title: Classifying Tanzania's Water Pumps 
 image: /img/tanzania_water_pump_kids.jpg
 ---
 
